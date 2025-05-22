@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DK Track Club</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background-color: #800000;
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header img {
+      max-width: 150px;
+    }
+    nav {
+      margin-top: 1rem;
+    }
+    nav a {
+      margin: 0 1rem;
+      color: #fff;
+      text-decoration: underline;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .contact-info p {
+      margin: 0.5rem 0;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #800000;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="ef84c06a-8e83-466b-bc70-4b0542e2b06c.png" alt="DK Track Club Logo" />
+    <h1>DK TRACK CLUB</h1>
+    <nav>
+      <a href="#coaches">About the Coaches</a>
+      <a href="#about">What We Are</a>
+    </nav>
+  </header>
+
+  <section class="contact-info">
+    <h2>Contact & Practice Info</h2>
+    <p><strong>Practice Address:</strong> 10145 Panther Pride Drive, Delton, MI 49046</p>
+    <p><strong>Mailing Address:</strong> 6449 Pine Lake Road, Delton, MI 49046</p>
+    <p><strong>Phone:</strong> 269-716-0175</p>
+  </section>
+
+  <section id="coaches">
+    <h2>About the Coaches</h2>
+    <p>We’ll fill this section in with a short bio or list of coach profiles. You can send me text for each coach when ready.</p>
+  </section>
+
+  <section id="about">
+    <h2>What We Are</h2>
+    <p>DK Track Club is an indoor track and field team unaffiliated with MHSAA or Delton Kellogg Schools. We focus on developing running fundamentals and athletic skills for kids of all ages in southwest Michigan.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 DK Track Club. All rights reserved.
+  </footer>
+
+</body>
+</html>
